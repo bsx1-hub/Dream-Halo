@@ -1,4 +1,4 @@
-﻿# Dream-Halo#  Dream Halo
+﻿# Dream-Halo  
 ### Gesture-Controlled Circadian Ambient Light
 
 Dream Halo is an STM32-based ambient lighting system designed for ECE 1895: Junior Design Fundamentals at the University of Pittsburgh.
